@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="110" height="34" tilewidth="32" tileheight="32" backgroundcolor="#96a891">
+ <tileset firstgid="1" name="plantcave" tilewidth="32" tileheight="32">
+  <image source="Tilesets/tilesetplantcave.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="65" name="plants" tilewidth="32" tileheight="32">
+  <image source="Tilesets/PlantsTileset.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tiles 4" width="110" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAA8Gw6cAAB
+  </data>
+ </layer>
+ <layer name="Tiles 3" width="110" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAA8Gw6cAAB
+  </data>
+ </layer>
+ <layer name="Tiles 2 (Game)" width="110" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztksENw0AIwG6H7L9rR0gLAh/UlvyMDnCec86jqqqqqqqIXdB7brMLes9tdkHvuc0u6D232QW95za7oPfcZhf0ntuMQs/97R70XHazm93md49Cz223GPTct3R7g+pG97DbXe/+S7c3pnfL7pqdP/p9Frvl5o9+n8VuNVR3q2JKt6r3p/z3lL9Av0/PepP0Laqg72q3GPRdb+o2Cfquqqqqqlv9AN6e3+w=
+  </data>
+ </layer>
+ <layer name="Tiles 1" width="110" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAA8Gw6cAAB
+  </data>
+ </layer>
+ <objectgroup name="Collider" width="110" height="34">
+  <object x="0" y="0" width="2560" height="448"/>
+  <object x="2560" y="0" width="960" height="192"/>
+  <object x="3392" y="192" width="128" height="896"/>
+  <object x="3008" y="416" width="384" height="672"/>
+  <object x="2816" y="576" width="192" height="512"/>
+  <object x="1856" y="768" width="960" height="320"/>
+  <object x="128" y="928" width="1728" height="160"/>
+  <object x="0" y="448" width="128" height="640"/>
+  <object x="128" y="448" width="512" height="224"/>
+  <object x="480" y="672" width="160" height="224"/>
+  <object x="640" y="768" width="512" height="128"/>
+  <object x="832" y="448" width="320" height="288"/>
+  <object x="2112" y="448" width="448" height="288"/>
+  <object x="1856" y="448" width="256" height="192"/>
+  <object x="1600" y="448" width="256" height="128"/>
+  <object x="1344" y="448" width="256" height="352"/>
+  <object x="1152" y="448" width="192" height="64"/>
+ </objectgroup>
+ <objectgroup name="Bounds" width="110" height="34">
+  <object x="0" y="0">
+   <ellipse/>
+  </object>
+  <object x="3520" y="1088">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Lumens" width="110" height="34">
+  <object x="736" y="608">
+   <ellipse/>
+  </object>
+  <object x="2688" y="512">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Portal" width="110" height="34"/>
+ <objectgroup name="PlantaCospeBaixo" width="110" height="34">
+  <object x="2688" y="192">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="PedraVertical" width="110" height="34">
+  <object x="1376" y="928">
+   <ellipse/>
+  </object>
+  <object x="1888" y="768">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="PluStart" width="110" height="34">
+  <object x="256" y="896" width="32" height="32">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

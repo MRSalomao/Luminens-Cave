@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="34" tilewidth="32" tileheight="32" backgroundcolor="#96a891">
+ <tileset firstgid="1" name="plantcave" tilewidth="32" tileheight="32">
+  <image source="tilesetplantcave.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="65" name="plants" tilewidth="32" tileheight="32">
+  <image source="PlantsTileset.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="129" name="Fundo1" tilewidth="32" tileheight="32">
+  <image source="Fundo1.png" width="2048" height="1024"/>
+ </tileset>
+ <layer name="Fundo1" width="60" height="34">
+  <data encoding="base64" compression="zlib">
+   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
+  </data>
+ </layer>
+ <layer name="Tiles 4" width="60" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztykENACAMBMFag6rBvwGKAPpvMpPs6y4CAICJVrWr/GzPaT4AAAAAAMxyATCJAfY=
+  </data>
+ </layer>
+ <layer name="Tiles 3" width="60" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztlrEOwiAURfk4o4uLOijVxNoOlTjoppPf7iOBhLwUCE0rVO9JToAXAlzaASEAAAAAAEAObswFqTweyR1ZmXZDtuSWlE5Nmrl87VLg5/Kps+kcjWmlqVemdWttYJ1VZB9950tnvBbj31dKZp6ncWoqYa0U58a/5QWgVE4BfxnkBZY9ech9iC9yJmtWs+/Ukgn9v753t7Yjr5E5Iacits/QvHfyEZkzVd6he1p9eS+ObzZ+ki9WSzFn3rnhu0P9TRSrqZ4+AAAAAPr5AMrsby0=
+  </data>
+ </layer>
+ <layer name="Tiles 2 (Game)" width="60" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztlF0KwjAMgINzCuoUHCLIVBB/wAcf1HkSH73ATqFHN4UO21KHLGWrWwIfLqx0+RLbGADiLxxAj03B2ibAvvXXxL7sy77sy77s2zbfM3JBrkiK3GSeGrn5vihPjXzmkW8VIXpatpfUXtXhSwnqeWNfv4N9m+07BZrvvPqSSbGAdvlS/89rR3V0kADpIiHSt6zJJJSgzteV7wAZIiMkQiaWNS58qefXla+oY6XsazsnPs73LilTx75gXxEufI/gh6+o41Swr4h/91XvqCXo802QB3zurx7yRF5KHhjvbXmo5Jn8Tl2+6h21A32+W9Dvr7GDPJLfofgmP/ZZzfNnaq/roMwc8l9qrxmGYZh28QY3sXp4
+  </data>
+ </layer>
+ <layer name="Tiles 1" width="60" height="34">
+  <data encoding="base64" compression="zlib">
+   eJzt0TEKgDAQRNFcUDvTaRc704h26tUztSDEIrso/8EvAlsMJAQAAAAAAAAAX9ap3nuEoUFF7xGGRjV5jzCU1Fxxd1bcrLf3pY7Xi9paVPYe0cDT/2xqtxwCAMDPFN4FBv4=
+  </data>
+ </layer>
+ <objectgroup name="Collider" width="60" height="34">
+  <object x="0" y="0" width="224" height="1088"/>
+  <object x="736" y="1088" width="256"/>
+  <object x="224" y="1088" width="320"/>
+  <object x="224" y="864" width="512" height="224"/>
+  <object x="384" y="0" width="800" height="320"/>
+  <object x="1184" y="0" width="736" height="352"/>
+  <object x="736" y="800" width="928" height="288"/>
+  <object x="1664" y="352" width="256" height="736"/>
+  <object x="832" y="640" width="96" height="160"/>
+ </objectgroup>
+ <objectgroup name="Bounds" width="60" height="34">
+  <object x="0" y="0">
+   <ellipse/>
+  </object>
+  <object x="1920" y="1088">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Lumens" width="60" height="34">
+  <object x="864" y="448" width="32" height="32">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Portal" width="60" height="34">
+  <object x="1536" y="800">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="PluStart" width="60" height="34">
+  <object x="288" y="32" width="32" height="32">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>

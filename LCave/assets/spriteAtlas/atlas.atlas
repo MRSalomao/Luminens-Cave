@@ -1,0 +1,1052 @@
+
+atlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bait
+  rotate: false
+  xy: 154, 41
+  size: 61, 73
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 154, 35
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 154, 116
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+lumen
+  rotate: false
+  xy: 292, 212
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+portal
+  rotate: false
+  xy: 2, 2
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+
+atlas2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GUI/buttonHover
+  rotate: false
+  xy: 2, 166
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+GUI/buttonPressed
+  rotate: false
+  xy: 2, 84
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+GUI/buttonUp
+  rotate: false
+  xy: 2, 2
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+
+atlas3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plantEater/plant1Attack/plant1Attack001
+  rotate: false
+  xy: 2, 94
+  size: 161, 90
+  orig: 161, 90
+  offset: 0, 0
+  index: -1
+plantEater/plant1Attack/plant1Attack002
+  rotate: false
+  xy: 2, 2
+  size: 161, 90
+  orig: 161, 90
+  offset: 0, 0
+  index: -1
+plantEater/plant1Attack/plant1Attack003
+  rotate: false
+  xy: 165, 94
+  size: 161, 90
+  orig: 161, 90
+  offset: 0, 0
+  index: -1
+plantEater/plant1Attack/plant1Attack004
+  rotate: false
+  xy: 165, 2
+  size: 161, 90
+  orig: 161, 90
+  offset: 0, 0
+  index: -1
+plantEater/plant1Attack/plant1Attack005
+  rotate: false
+  xy: 328, 94
+  size: 161, 90
+  orig: 161, 90
+  offset: 0, 0
+  index: -1
+plantEater/plant1Attack/plant1Attack006
+  rotate: false
+  xy: 328, 2
+  size: 161, 90
+  orig: 161, 90
+  offset: 0, 0
+  index: -1
+plantEater/plant1Attack/plant1Attack007
+  rotate: false
+  xy: 491, 94
+  size: 161, 90
+  orig: 161, 90
+  offset: 0, 0
+  index: -1
+
+atlas4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plantEater/plant1swallow/plant1swallow001
+  rotate: false
+  xy: 2, 350
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+plantEater/plant1swallow/plant1swallow002
+  rotate: false
+  xy: 2, 234
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+plantEater/plant1swallow/plant1swallow003
+  rotate: false
+  xy: 174, 350
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+plantEater/plant1swallow/plant1swallow004
+  rotate: false
+  xy: 2, 118
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+plantEater/plant1swallow/plant1swallow005
+  rotate: false
+  xy: 174, 234
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+plantEater/plant1swallow/plant1swallow006
+  rotate: false
+  xy: 346, 350
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+plantEater/plant1swallow/plant1swallow007
+  rotate: false
+  xy: 2, 2
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+plantEater/plant1swallow/plant1swallow008
+  rotate: false
+  xy: 174, 118
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+plantEater/plant1swallow/plant1swallow009
+  rotate: false
+  xy: 346, 234
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+plantEater/plant1swallow/plant1swallow010
+  rotate: false
+  xy: 518, 350
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+plantEater/plant1swallow/plant1swallow011
+  rotate: false
+  xy: 174, 2
+  size: 170, 114
+  orig: 170, 114
+  offset: 0, 0
+  index: -1
+
+atlas5.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plantShooter/plant2Attack/plant2Attack001
+  rotate: false
+  xy: 2, 262
+  size: 125, 128
+  orig: 125, 128
+  offset: 0, 0
+  index: -1
+plantShooter/plant2Attack/plant2Attack006
+  rotate: false
+  xy: 2, 262
+  size: 125, 128
+  orig: 125, 128
+  offset: 0, 0
+  index: -1
+plantShooter/plant2Attack/plant2Attack002
+  rotate: false
+  xy: 129, 262
+  size: 125, 128
+  orig: 125, 128
+  offset: 0, 0
+  index: -1
+plantShooter/plant2Attack/plant2Attack003
+  rotate: false
+  xy: 2, 132
+  size: 125, 128
+  orig: 125, 128
+  offset: 0, 0
+  index: -1
+plantShooter/plant2Attack/plant2Attack004
+  rotate: false
+  xy: 129, 132
+  size: 125, 128
+  orig: 125, 128
+  offset: 0, 0
+  index: -1
+plantShooter/plant2Attack/plant2Attack005
+  rotate: false
+  xy: 2, 2
+  size: 125, 128
+  orig: 125, 128
+  offset: 0, 0
+  index: -1
+
+atlas6.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plantShooter/plant2bullet/plant2bullet001
+  rotate: false
+  xy: 2, 2
+  size: 780, 780
+  orig: 780, 780
+  offset: 0, 0
+  index: -1
+
+atlas7.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plantShooter/plant2bullet/plant2bullet002
+  rotate: false
+  xy: 2, 2
+  size: 780, 780
+  orig: 780, 780
+  offset: 0, 0
+  index: -1
+
+atlas8.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plantShooter/plant2bullet/plant2bullet003
+  rotate: false
+  xy: 2, 2
+  size: 780, 780
+  orig: 780, 780
+  offset: 0, 0
+  index: -1
+
+atlas9.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plantShooter/plant2bullet/plant2bullet004
+  rotate: false
+  xy: 2, 2
+  size: 780, 780
+  orig: 780, 780
+  offset: 0, 0
+  index: -1
+
+atlas10.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plantShooter/plant2bullet/plant2bullet005
+  rotate: false
+  xy: 2, 2
+  size: 780, 780
+  orig: 780, 780
+  offset: 0, 0
+  index: -1
+
+atlas11.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plantShooter/plant2bullet/plant2bullet006
+  rotate: false
+  xy: 2, 2
+  size: 780, 780
+  orig: 780, 780
+  offset: 0, 0
+  index: -1
+
+atlas12.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plantShooter/plant2bullet/plant2bullet007
+  rotate: false
+  xy: 2, 2
+  size: 780, 780
+  orig: 780, 780
+  offset: 0, 0
+  index: -1
+
+atlas13.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plu/DashAir/DashAir001
+  rotate: false
+  xy: 2, 410
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+plu/DashAir/DashAir010
+  rotate: false
+  xy: 2, 410
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+plu/DashAir/DashAir002
+  rotate: false
+  xy: 2, 308
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+plu/DashAir/DashAir003
+  rotate: false
+  xy: 404, 410
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+plu/DashAir/DashAir004
+  rotate: false
+  xy: 2, 206
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+plu/DashAir/DashAir005
+  rotate: false
+  xy: 404, 308
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+plu/DashAir/DashAir006
+  rotate: false
+  xy: 2, 104
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+plu/DashAir/DashAir007
+  rotate: false
+  xy: 2, 2
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+plu/DashAir/DashAir008
+  rotate: false
+  xy: 404, 206
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+plu/DashAir/DashAir009
+  rotate: false
+  xy: 404, 104
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+
+atlas14.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plu/Die/Die001
+  rotate: false
+  xy: 2, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+plu/Die/Die002
+  rotate: false
+  xy: 2, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+plu/Die/Die003
+  rotate: false
+  xy: 304, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+plu/Die/Die004
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+plu/Die/Die005
+  rotate: false
+  xy: 304, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+plu/Die/Die006
+  rotate: false
+  xy: 606, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+plu/Die/Die007
+  rotate: false
+  xy: 304, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+plu/Die/Die008
+  rotate: false
+  xy: 606, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+plu/Die/Die009
+  rotate: false
+  xy: 606, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+
+atlas15.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plu/Idle/Idle001
+  rotate: false
+  xy: 2, 410
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle002
+  rotate: false
+  xy: 2, 308
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle003
+  rotate: false
+  xy: 204, 410
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle004
+  rotate: false
+  xy: 2, 206
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle005
+  rotate: false
+  xy: 204, 308
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle006
+  rotate: false
+  xy: 406, 410
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle007
+  rotate: false
+  xy: 2, 104
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle008
+  rotate: false
+  xy: 2, 2
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle009
+  rotate: false
+  xy: 204, 206
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle010
+  rotate: false
+  xy: 406, 308
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle011
+  rotate: false
+  xy: 608, 410
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle015
+  rotate: false
+  xy: 608, 410
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle012
+  rotate: false
+  xy: 204, 104
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle014
+  rotate: false
+  xy: 204, 104
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle013
+  rotate: false
+  xy: 204, 2
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+plu/Idle/Idle016
+  rotate: false
+  xy: 406, 206
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+
+atlas16.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plu/Jump/Jump001
+  rotate: false
+  xy: 2, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump016
+  rotate: false
+  xy: 2, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump002
+  rotate: false
+  xy: 2, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump003
+  rotate: false
+  xy: 144, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump015
+  rotate: false
+  xy: 144, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump004
+  rotate: false
+  xy: 144, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump005
+  rotate: false
+  xy: 286, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump006
+  rotate: false
+  xy: 286, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump007
+  rotate: false
+  xy: 428, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump008
+  rotate: false
+  xy: 428, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump009
+  rotate: false
+  xy: 570, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump010
+  rotate: false
+  xy: 570, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump011
+  rotate: false
+  xy: 712, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump012
+  rotate: false
+  xy: 712, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump013
+  rotate: false
+  xy: 854, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+plu/Jump/Jump014
+  rotate: false
+  xy: 854, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+
+atlas17.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plu/JumpEffect/JumpEffect001
+  rotate: false
+  xy: 2, 2
+  size: 128, 100
+  orig: 128, 100
+  offset: 0, 0
+  index: -1
+plu/JumpEffect/JumpEffect002
+  rotate: false
+  xy: 132, 2
+  size: 128, 100
+  orig: 128, 100
+  offset: 0, 0
+  index: -1
+plu/JumpEffect/JumpEffect003
+  rotate: false
+  xy: 262, 2
+  size: 128, 100
+  orig: 128, 100
+  offset: 0, 0
+  index: -1
+plu/JumpEffect/JumpEffect004
+  rotate: false
+  xy: 392, 2
+  size: 128, 100
+  orig: 128, 100
+  offset: 0, 0
+  index: -1
+plu/JumpEffect/JumpEffect005
+  rotate: false
+  xy: 522, 2
+  size: 128, 100
+  orig: 128, 100
+  offset: 0, 0
+  index: -1
+
+atlas18.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plu/Move/Move001
+  rotate: false
+  xy: 2, 158
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move002
+  rotate: false
+  xy: 2, 106
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move003
+  rotate: false
+  xy: 194, 158
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move004
+  rotate: false
+  xy: 2, 54
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move005
+  rotate: false
+  xy: 194, 106
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move006
+  rotate: false
+  xy: 386, 158
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move007
+  rotate: false
+  xy: 2, 2
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move008
+  rotate: false
+  xy: 194, 54
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move009
+  rotate: false
+  xy: 386, 106
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move010
+  rotate: false
+  xy: 578, 158
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move011
+  rotate: false
+  xy: 194, 2
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move012
+  rotate: false
+  xy: 386, 54
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move013
+  rotate: false
+  xy: 578, 106
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move014
+  rotate: false
+  xy: 770, 158
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move015
+  rotate: false
+  xy: 386, 2
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move016
+  rotate: false
+  xy: 578, 54
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move017
+  rotate: false
+  xy: 770, 106
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+plu/Move/Move018
+  rotate: false
+  xy: 578, 2
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+
+atlas19.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plu/Victory/Victory001
+  rotate: false
+  xy: 2, 379
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory002
+  rotate: false
+  xy: 2, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory003
+  rotate: false
+  xy: 129, 379
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory004
+  rotate: false
+  xy: 129, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory005
+  rotate: false
+  xy: 256, 379
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory006
+  rotate: false
+  xy: 256, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory007
+  rotate: false
+  xy: 383, 379
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory008
+  rotate: false
+  xy: 383, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory009
+  rotate: false
+  xy: 510, 379
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory010
+  rotate: false
+  xy: 510, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory011
+  rotate: false
+  xy: 637, 379
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory012
+  rotate: false
+  xy: 637, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory013
+  rotate: false
+  xy: 764, 379
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory014
+  rotate: false
+  xy: 764, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory015
+  rotate: false
+  xy: 891, 379
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory016
+  rotate: false
+  xy: 891, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+
+atlas20.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plu/Victory/Victory017
+  rotate: false
+  xy: 2, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory018
+  rotate: false
+  xy: 129, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory019
+  rotate: false
+  xy: 256, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory020
+  rotate: false
+  xy: 383, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory021
+  rotate: false
+  xy: 510, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory022
+  rotate: false
+  xy: 637, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1
+plu/Victory/Victory023
+  rotate: false
+  xy: 764, 2
+  size: 125, 375
+  orig: 125, 375
+  offset: 0, 0
+  index: -1

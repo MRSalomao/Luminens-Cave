@@ -1,0 +1,137 @@
+<root>
+    <game>
+        <softShadows>true</softShadows> <!-- true = soft shadows / false = hard shadows -->
+        
+        <resolutionX>1280</resolutionX> <!-- Game resolution -->
+        <resolutionY>720</resolutionY>
+        
+        <fullscreen>false</fullscreen> <!-- Start up in fullscreen? (true / false) -->
+        
+        <!-- zoomType explanation: -->
+        <!-- 0 - Screen pixels and tilemap pixels are of the same size -->
+        <!-- 1 - Pixel size determined by number of tiles on the screen, horizontally. Fill tilesX. -->
+        <!-- 2 - Pixel size determined by number of tiles on the screen, vertically. Fill tilesY. -->
+        <!-- 3 - Pixel size determined by the value of zoom -->
+        <zoomType>0</zoomType> 
+        
+        <tilesX></tilesX> <!-- Number of horizontal tiles to be shown on screen. -->
+        <tilesY></tilesY> <!-- Number of vertical tiles to be shown on screen. -->
+        
+        <zoom>1.0</zoom> <!-- Zoom value. zoom=1 is the same as no zoom. -->
+    </game>
+    
+    <plu>
+        <acceleration></acceleration>
+        <maxSpeed></maxSpeed>
+        <initialSpeed></initialSpeed>
+        <jumpSpeed></jumpSpeed>
+        <moveSpeed></moveSpeed>
+        <size>.7</size>
+        
+        <animations>
+            <Idle>
+                <frames>16</frames>
+                <framerate>15</framerate>
+                <sizeX>1</sizeX>
+                <sizeY>1</sizeY>
+                <offsetX>0</offsetX>
+                <offsetY>0.75</offsetY>
+            </Idle>
+            <Jump>
+                <frames>13</frames>
+                <framerate>7</framerate>
+                <sizeX>1</sizeX>
+                <sizeY>1</sizeY>
+                <offsetX>0</offsetX>
+                <offsetY>0.15</offsetY>
+            </Jump>
+            <JumpEffect>
+                <frames>5</frames>
+                <framerate>15</framerate>
+                <sizeX>1</sizeX>
+                <sizeY>1</sizeY>
+                <offsetX>0</offsetX>
+                <offsetY>0</offsetY>
+            </JumpEffect>
+            <Move>
+                <frames>18</frames>
+                <framerate>10</framerate>
+                <sizeX>1</sizeX>
+                <sizeY>1</sizeY>
+                <offsetX>0</offsetX>
+                <offsetY>0.0</offsetY>
+            </Move>
+            <DashAir>
+                <frames>10</frames>
+                <framerate>20</framerate>
+                <sizeX>1.1</sizeX>
+                <sizeY>1.1</sizeY>
+                <offsetX>0</offsetX>
+                <offsetY>-0.0</offsetY>
+            </DashAir>
+            <Die>
+                <frames>9</frames>
+                <framerate>12</framerate>
+                <sizeX>1</sizeX>
+                <sizeY>1</sizeY>
+                <offsetX>0</offsetX>
+                <offsetY>0</offsetY>
+            </Die>
+            <Victory>
+                <frames>23</frames>
+                <framerate>12</framerate>
+                <sizeX>1.0</sizeX>
+                <sizeY>1.0</sizeY>
+                <offsetX>-1.</offsetX>
+                <offsetY>5.</offsetY>
+            </Victory>
+        </animations>
+    </plu>
+    
+    <plantEater>
+        <acceleration></acceleration>
+        <maxSpeed></maxSpeed>
+        <initialSpeed></initialSpeed>
+        <jumpSpeed></jumpSpeed>
+        <moveSpeed></moveSpeed>
+        <size>0.5</size>
+    	<animations>
+    		<plant1Attack>
+    			<frames>7</frames>
+                <framerate>15</framerate>
+                <sizeX>2</sizeX>
+                <sizeY>2</sizeY>
+                <offsetX>0</offsetX>
+                <offsetY>0</offsetY>
+    		</plantAttack>
+    		<plant1swallow>
+    		    <frames>11</frames>
+                <framerate>15</framerate>
+                <sizeX>2</sizeX>
+                <sizeY>2</sizeY>
+                <offsetX>0</offsetX>
+                <offsetY>0</offsetY>
+    		</plantSwallow> 
+    	</animations>
+    </plantEater>
+    
+    <plantShooter>
+        <acceleration></acceleration>
+        <maxSpeed></maxSpeed>
+        <initialSpeed></initialSpeed>
+        <jumpSpeed></jumpSpeed>
+        <moveSpeed></moveSpeed>
+        <size>0.5</size>
+    	<animations>
+    		<plant2Attack>
+    			<frames>6</frames>
+                <framerate>14</framerate>
+                <sizeX>2</sizeX>
+                <sizeY>2</sizeY>
+                <offsetX>0</offsetX>
+                <offsetY>0</offsetY>
+    		</plantAttack>
+    	</animations>
+    </plantEater>
+    
+</root>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="60" height="50" tilewidth="32" tileheight="32" backgroundcolor="#96a891">
+ <tileset firstgid="1" name="Tilesetplantcave" tilewidth="32" tileheight="32">
+  <image source="tilesetplantcave.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="65" name="Plants" tilewidth="32" tileheight="32">
+  <image source="PlantsTileset.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tiles 4" width="60" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztybEJADAMBDGvlnj/nfwLBExqCa66KgAAAABg66Sb+vEAAAAAAACAfwN3OAEI
+  </data>
+ </layer>
+ <layer name="Tiles 3" width="60" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2MEKwjAMgOG+nHieO3W9tY+h6KvbQIOhbqjI1tH9H4R1WQrJMXMOAHAUpx9qxxxDjpTjkiPk8CY/ldxQvtt6W6N3R5PfI51PSN+pyseS8+41u5+p0buhqtmbZM5xIW+/p4WaaHJzdwHgX/cv626rdgEAwDvZdXQHkqfsO1M5h4Z9rUVm0/1GnjJjLOced4FYvfc4IwAAaOPTP4zrJl0A6Nm5dQMAAODQdOd5NO0CQA+ebFcb0A==
+  </data>
+ </layer>
+ <layer name="Tiles 2 (Game)" width="60" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmckKwjAQQAe3g9vBKoIogijeXS8Fv8f//wFHaCCUmCZNOkzMDDxstCl9DHGyFABQCIIgCH/NErkiN+SOPLS2/p3p919t/drlfvW5IvA9QzdRVvjEAdL1bRO5+S4gL98N5OUr+e3G1/V/tIf0kQEyREaR2ztmvmNkisyQOTKJ3D4x86UYX5zGL8X44uQr+U0PH1+K+V4KvqY1ln5Nse6h9LU9o7T0E18aX9f628bX1k98xVd8+ftympf5+F7AvNf41O55Gfpxmpf5+KooDZjiXcEtv12F8uWW36YI3deg2LeI6Ru6r0GxbxHTl9P4E9/8fG1nfvUzuW/tbKpH3H3rOTPVS9camoqvq6PLuSV333XD+/sGd999Zr4x8qvmgin4xshvSr6S3zBfTusbE1tI71w2hCOkdy4rCLnwAWKFw7Y=
+  </data>
+ </layer>
+ <layer name="Tiles 1" width="60" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzqsOgwAMhlHekrnhGDNczC4he/bVoEGQVnBO8qsmzdc0AABs2titOiLRPdZVRyTqY4/qiERjbKqOSPSKvasjAAAAAAAA4MKG2LM6ItEcW6ojTrTu3D+x74E/vxNagGv7Ay9RB68=
+  </data>
+ </layer>
+ <objectgroup name="Collider" width="60" height="50" visible="0">
+  <object x="0" y="0" width="608" height="1152"/>
+  <object x="0" y="1152" width="256" height="448"/>
+  <object x="256" y="1472" width="1664" height="128"/>
+  <object x="928" y="1024" width="992" height="448"/>
+  <object x="992" y="448" width="160" height="448"/>
+  <object x="1152" y="448" width="768" height="192"/>
+  <object x="1440" y="640" width="480" height="384"/>
+  <object x="608" y="0" width="1312" height="192"/>
+  <object x="1760" y="192" width="160" height="256"/>
+ </objectgroup>
+ <objectgroup name="Bounds" width="60" height="50">
+  <object x="0" y="0">
+   <ellipse/>
+  </object>
+  <object x="1920" y="1600">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Lumens" width="60" height="50">
+  <object x="1280" y="800" width="32" height="32">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Portal" width="60" height="50">
+  <object x="1526" y="454">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="PlantaIsca" width="60" height="50">
+  <object x="817" y="196">
+   <polyline points="0,0 0,1250"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="PluStart" width="60" height="50">
+  <object x="323" y="1351">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="PlantShooter" width="60" height="50">
+  <object x="320" y="1267">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>
