@@ -4,9 +4,9 @@ A game development project done by UFRJ students from Computer Engineering and D
 
 The game consists of a 2D platformer where you control a jelly creature and help it save luminous beings from a cursed cave:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=8N_QBQzRixY
+<p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=8N_QBQzRixY
 " target="_blank"><img src="http://img.youtube.com/vi/8N_QBQzRixY/0.jpg" 
-alt="Lumens Cave" width="240" height="180" border="10" /></a>
+alt="Lumens Cave" width="240" height="180" border="10" /></a></p>
 
 ## Done with Java, using:
 
