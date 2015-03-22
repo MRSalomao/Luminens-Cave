@@ -6,19 +6,19 @@ The game consists of a 2D platformer where you control a jelly creature and help
 
 https://www.youtube.com/watch?v=8N_QBQzRixY
 
-Done with Java, using:
+## Done with Java, using:
 
 http://libgdx.badlogicgames.com/
 
 https://code.google.com/p/box2dlights/
 
-Computer Engineers:
+## Computer Engineers:
 
 Bernardo Camilo
 
 Marcello Salomão
 
-Designers:
+## Designers:
 
 Bianca Werneck
 
@@ -28,7 +28,7 @@ Guilherme Marques
 
 Mário Henrique
 
-Supervisor teachers:
+## Supervisor teachers:
 
 André Ramos
 
