@@ -36,6 +36,6 @@ Marcelo Ribeiro
 
 Ricardo Marroquim
 
-To import the project in eclipse (recommended) simply do:
+### To import the project in eclipse (recommended) simply do:
 
 File -> Import -> git -> Projects from Git -> Clone URI -> paste https://marcellosalomao@bitbucket.org/marcellosalomao/luminens-cave.git
